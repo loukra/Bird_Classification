@@ -1,1 +1,3 @@
-# Bird_Classification
+# Bird Classification
+
+## ML Acoustics Workshop
